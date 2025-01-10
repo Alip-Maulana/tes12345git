@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View larger map_gm-control-active</name>
+   <tag></tag>
+   <elementGuidId>00febd96-47f5-4960-aa09-5c5389afdcdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.gm-control-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Zoom in&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4556a0ad-738f-49ef-8c76-1cbc529c760b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1b6d572c-4a4c-40a9-84ec-8b449ae1f835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Zoom in</value>
+      <webElementGuid>922a375c-b531-4feb-bafb-5b34984b4d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Zoom in</value>
+      <webElementGuid>68f5f740-ff8e-42af-9ed7-cfc59236080a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f5e4317-56cd-4cde-89d4-0452ac92f30c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gm-control-active</value>
+      <webElementGuid>03d5708f-1ff8-4d20-bca5-01f2d3928653</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mapDiv&quot;)/div[1]/div[@class=&quot;gm-style&quot;]/div[12]/div[@class=&quot;gmnoprint gm-bundled-control gm-bundled-control-on-bottom&quot;]/div[@class=&quot;gmnoprint&quot;]/div[1]/button[@class=&quot;gm-control-active&quot;]</value>
+      <webElementGuid>65a3c9bc-9513-4e66-9be3-bc3573a9d048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/FINAL/Page_Bank Sampah/iframe_Mari Bergabung Dengan Kami_gmap_canvas</value>
+      <webElementGuid>06a0ad2f-69f8-4e9b-b0bb-9e9befb6c069</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>8cc0df18-3a71-4e8c-bd07-f57d0f16e6b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mapDiv']/div/div[3]/div[12]/div/div/div/button</value>
+      <webElementGuid>5b453ee5-cf09-492d-a1f6-5f8aacebf28b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View larger map'])[1]/following::button[2]</value>
+      <webElementGuid>bedb6b5b-3974-4053-a165-1624632b8b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To navigate, press the arrow keys.'])[1]/following::button[2]</value>
+      <webElementGuid>eae19da0-58d5-4820-8503-a222074710e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To navigate, press the arrow keys.'])[2]/preceding::button[2]</value>
+      <webElementGuid>fe596d8a-20d0-4ec1-b05e-b0593ba8c13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keyboard shortcuts'])[1]/preceding::button[3]</value>
+      <webElementGuid>cc9430c8-f66d-41e1-9f89-5e50e6ca7fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div/button</value>
+      <webElementGuid>9ce92cc4-fc95-4779-8701-74510e35fc7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@title = 'Zoom in' and @type = 'button']</value>
+      <webElementGuid>5416b2a8-f106-46a1-bb05-bf3e9cbd5e3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

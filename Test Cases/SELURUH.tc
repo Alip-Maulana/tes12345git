@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pengecekan all</description>
+   <name>SELURUH</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad5a05fc-8cdc-43f3-ad5f-56b87c8ad8a8</testCaseGuid>
+</TestCaseEntity>
